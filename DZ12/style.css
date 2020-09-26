@@ -1,0 +1,15 @@
+.table {
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-left: 5%;   
+}
+
+.cell {
+    border: 2px dashed green;
+    background-color: yellow;     
+}
+
+.title {
+    border: 2px dashed green;
+    background-color: lightblue;     
+}
